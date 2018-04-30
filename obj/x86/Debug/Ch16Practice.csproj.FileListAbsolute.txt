@@ -1,0 +1,104 @@
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\Ch16Practice.exe
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\Ch16Practice.pdb
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\RollerLib.dll
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\RollerLib.pdb
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb
+C:\!Curriculum\CIS131 C# Sp2013 New\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.MainForm.resources
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\Ch16Practice.pdb
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\RollerLib.dll
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\bin\Debug\RollerLib.pdb
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.csprojResolveAssemblyReference.cache
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.MainForm.resources
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+C:\Users\cindy.roller\Documents\CIS131 Sp13\!WIP - MINE\Ch16Stuff\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.GenerateResource.Cache
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\obj\x86\Debug\Ch16Practice.csprojResolveAssemblyReference.cache
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\obj\x86\Debug\Ch16Practice.MainForm.resources
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.GenerateResource.Cache
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\bin\Debug\Ch16Practice.exe.config
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\bin\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\bin\Debug\Ch16Practice.pdb
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\bin\Debug\CJRollerLib.dll
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice\bin\Debug\CJRollerLib.pdb
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice - Copy\bin\Debug\Ch16Practice.exe.config
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice - Copy\obj\x86\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\!CIS131 Sp2015\WIP\Ch16\Ch16Practice - Copy\obj\x86\Debug\Ch16Practice.pdb
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\bin\Debug\Ch16Practice.exe.config
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.pdb
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\bin\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\bin\Debug\Ch16Practice.pdb
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.csprojResolveAssemblyReference.cache
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.MainForm.resources
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\!Grading - Sec1\Ch16PracticeSTARTER\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.csproj.GenerateResource.Cache
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\WIP\Ch16\Ch16 Practice Files\Ch16PracticeFiles\Ch16PracticeSTART\Ch16PracticeSTARTER\bin\Debug\Ch16Practice.exe.config
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\WIP\Ch16\Ch16 Practice Files\Ch16PracticeFiles\Ch16PracticeSTART\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Documents\!Curriculum 2015-2016\CIS131 CSharp PC\WIP\Ch16\Ch16 Practice Files\Ch16PracticeFiles\Ch16PracticeSTART\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.pdb
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP Murach2013\Ch16\Ch16 Practice Files\Ch16PracticeFiles\Ch16PracticeSTART\Ch16PracticeSTARTER\bin\Debug\Ch16Practice.exe.config
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP Murach2013\Ch16\Ch16 Practice Files\Ch16PracticeFiles\Ch16PracticeSTART\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.exe
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP Murach2013\Ch16\Ch16 Practice Files\Ch16PracticeFiles\Ch16PracticeSTART\Ch16PracticeSTARTER\obj\x86\Debug\Ch16Practice.pdb
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\bin\Debug\Ch16Practice.exe.config
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\bin\Debug\Ch16Practice.exe
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\bin\Debug\Ch16Practice.pdb
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.csprojResolveAssemblyReference.cache
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.MainForm.resources
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.SecretForm.resources
+C:\!Curriculum 2015-2016\CIS131 Murach VS15\WIP\Ch16 Practice Files\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.GenerateResource.Cache
+C:\Users\cindy.roller\Desktop\Ch16PracticeSTART\Ch16Practice\bin\Debug\Ch16Practice.exe.config
+C:\Users\cindy.roller\Desktop\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+C:\Users\cindy.roller\Desktop\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\bin\Debug\Ch16Practice.exe.config
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.csprojResolveAssemblyReference.cache
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.MainForm.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.SecretForm.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.GenerateResource.Cache
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\bin\Debug\Ch16Practice.exe
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\bin\Debug\Ch16Practice.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\bin\Debug\FroELibSpring17.dll
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\bin\Debug\FroELibSpring17.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\Ch16PracticeSTART\Ch16Practice\bin\Debug\FroELibSpring17.xml
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\Ch16Practice.exe.config
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\Ch16Practice.exe
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\Ch16Practice.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\FroELibSpring17.dll
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\FroELibSpring17.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\FroELibSpring17.xml
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.csprojResolveAssemblyReference.cache
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.MainForm.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.SecretForm.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.GenerateResource.Cache
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\Ch16Practice.exe.config
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\Ch16Practice.exe
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\Ch16Practice.pdb
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\FroELibSpring17.dll
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\FroELibSpring17.pdb
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\bin\Debug\FroELibSpring17.xml
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.csprojResolveAssemblyReference.cache
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.MainForm.resources
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.Properties.Resources.resources
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.SecretForm.resources
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.GenerateResource.cache
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.csproj.CopyComplete
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.exe
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\FroECh16Practice\Ch16Practice\obj\x86\Debug\Ch16Practice.pdb

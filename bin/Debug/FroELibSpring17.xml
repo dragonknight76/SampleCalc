@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FroELibSpring17</name>
+    </assembly>
+    <members>
+        <member name="T:FroELibSpring17.MyMethods">
+            <summary>
+            Contains various methods created in C# Class
+            </summary>
+        </member>
+        <member name="M:FroELibSpring17.MyMethods.AddTwo(System.Decimal,System.Decimal)">
+            <summary>
+            Adds two decimals passed to it
+            </summary>
+            <param name="n1">First decimal</param>
+            <param name="n2">Second Decimal</param>
+            <returns>Sum of two decimals</returns>
+        </member>
+        <member name="M:FroELibSpring17.MyMethods.AboutEugene">
+            <summary>
+            Returns name and employer
+            </summary>
+        </member>
+        <member name="M:FroELibSpring17.MyMethods.DisplayQuote">
+            <summary>
+            Returns a quote
+            </summary>
+            <returns>string value</returns>
+        </member>
+        <member name="T:FroELibSpring17.MyValidators">
+            <summary>
+            Extra Class
+            </summary>
+        </member>
+    </members>
+</doc>
